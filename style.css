@@ -1,0 +1,52 @@
+body {
+    background-color: #00ffff;
+}
+
+html {
+    font-family: 'Secular One', sans-serif;
+}
+
+h1 {
+    font-family: 'Secular One', sans-serif;
+    border-bottom: solid; block-size:auto;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    padding-top: 0px;
+  }
+.wrapper {
+margin: 50px auto;
+text-align: center;
+width: 50%;
+height: auto;
+border: 11px solid #000000;
+border-radius: 90px;
+position: relative;
+background-color:#FFFACD;
+font-family: 'Secular One', sans-serif;
+}*/
+  .card {
+    border-radius: 30px;
+    border-width: 1px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 2px 8px 0px;
+    font-family: 'Secular One', sans-serif;
+    color: #000000);
+    font-size: 18px;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 30px 40px;
+  }
+  
+  .btn {
+    line-height: 22px;
+    border-radius: 10px;
+    padding: 10px 24px;
+    cursor:-webkit-grab;
+  }
+
+  #password {
+    font-size: 1rem;
+    border-radius: 30px;
+  }
